@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/BACKGROUND"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Login">
+
+    <TextView
+        android:id="@+id/loginTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="@string/loginTxt"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText
+        android:id="@+id/inputLogin"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/loginTxt"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:hint="@string/inputLoginPlaceholder"
+        android:inputType="text"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/inputPassword"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/inputLogin"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:hint="@string/inputPassPlaceholder"
+        android:inputType="textPassword"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/loginButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/inputPassword"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/loginButtonTxt" />
+
+    <TextView
+        android:id="@+id/loginRegisterTxt"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rememberLogin"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="69dp"
+        android:text="@string/loginRegistertxt"
+        android:textAlignment="center"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/registerButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/loginRegisterTxt"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp"
+        android:text="@string/loginRegisterButton" />
+
+    <Switch
+        android:id="@+id/rememberLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/loginRegisterTxt"
+        android:layout_alignRight="@+id/loginRegisterTxt"
+        android:layout_below="@+id/loginButton"
+        android:layout_centerHorizontal="true"
+        android:checked="false"
+        android:nestedScrollingEnabled="true"
+        android:text="@string/rememberLogin"
+        android:textOff="@string/no"
+        android:textOn="@string/yes" />
+
+</RelativeLayout>
