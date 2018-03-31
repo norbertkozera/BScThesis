@@ -1,0 +1,657 @@
+2015-11-11 14:20:07 -ERROR- User-Defined Exception ::: User hehdhd does not exists!! ::: IN: F_FINDUSER
+2015-11-11 14:20:21 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_FINDUSER
+2015-11-11 17:37:10 -ERROR- User-Defined Exception ::: User vsg does not exists!! ::: IN: F_FINDUSER
+2015-11-11 17:37:59 -ERROR- User-Defined Exception ::: User hhd does not exists!! ::: IN: F_FINDUSER
+2015-11-11 18:05:06 -ERROR- User-Defined Exception ::: User ffr does not exists!! ::: IN: F_FINDUSER
+2015-11-11 18:11:44 -ERROR- User-Defined Exception ::: User hdhdh does not exists!! ::: IN: F_FINDUSER
+2015-11-11 18:11:44 -ERROR- User-Defined Exception ::: User hdhdh does not exists!! ::: IN: F_FINDUSER
+2015-11-11 18:11:44 -ERROR- User-Defined Exception ::: User hdhdh does not exists!! ::: IN: F_FINDUSER
+2015-11-11 18:11:44 -ERROR- User-Defined Exception ::: User hdhdh does not exists!! ::: IN: F_FINDUSER
+2015-11-11 19:05:02 -ERROR- User-Defined Exception ::: User testty does not exists!! ::: IN: F_FINDUSER
+2015-11-11 19:05:21 -ERROR- User-Defined Exception ::: User testyg does not exists!! ::: IN: F_FINDUSER
+2015-11-11 19:05:26 -ERROR- User-Defined Exception ::: User testyg does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:36:53 -ERROR- User-Defined Exception ::: User ttt does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:05 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:13 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:15 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:15 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:15 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:16 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:16 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:16 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:16 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:16 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:22 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:25 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:26 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:26 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:26 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:26 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:27 -ERROR- User-Defined Exception ::: User hdhs does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:32 -ERROR- User-Defined Exception ::: User hdhsff does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:33 -ERROR- User-Defined Exception ::: User hdhsff does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:38:34 -ERROR- User-Defined Exception ::: User hdhsff does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:39:13 -ERROR- User-Defined Exception ::: User hdhdh does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:23 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:26 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:29 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:29 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:29 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:29 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:30 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:30 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:30 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:30 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:30 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:31 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:31 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:31 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:31 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:32 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:32 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:32 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:32 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:32 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:33 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:33 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:33 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:34 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:49:34 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:55:10 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:58:31 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 20:59:53 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 21:00:00 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 21:06:59 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 21:10:16 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 21:10:21 -ERROR- User-Defined Exception ::: User  does not exists!! ::: IN: F_FINDUSER
+2015-11-11 21:10:27 -ERROR- User-Defined Exception ::: User ffg does not exists!! ::: IN: F_FINDUSER
+2015-11-11 21:10:31 -ERROR- User-Defined Exception ::: User ffgff does not exists!! ::: IN: F_FINDUSER
+2015-11-11 21:20:46 -ERROR- User-Defined Exception ::: User gt does not exists!! ::: IN: F_FINDUSER
+2015-11-11 21:27:34 -ERROR- User-Defined Exception ::: User gf does not exists!! ::: IN: F_FINDUSER
+2015-11-11 21:54:46 -ERROR- User-Defined Exception ::: User ggg does not exists!! ::: IN: F_FINDUSER
+2015-11-13 16:19:51 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_FINDUSER
+2015-11-13 16:35:17 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_FINDUSER
+2015-11-14 14:55:06 -ERROR- User-Defined Exception ::: New user tried to register account with USER-NAME: test whitch already exists!! ::: IN: F_GETUSERNAME
+2015-11-14 14:58:25 -ERROR- User-Defined Exception ::: New user tried to register account with USER-NAME: test whitch already exists!! ::: IN: F_GETUSERNAME
+2015-11-14 14:58:35 -ERROR- User-Defined Exception ::: New user tried to register account with USER-NAME: test1 whitch already exists!! ::: IN: F_GETUSERNAME
+2015-11-14 14:58:42 -ERROR- User-Defined Exception ::: New user tried to register account with USER-NAME: test2 whitch already exists!! ::: IN: F_GETUSERNAME
+2015-11-14 15:19:51 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_FINDUSER
+2015-11-14 20:02:56 -ERROR- User-Defined Exception ::: User bdhd does not exists!! ::: IN: F_LOGIN
+2015-11-14 20:05:42 -ERROR- User-Defined Exception ::: User bdhd does not exists!! ::: IN: F_LOGIN
+2015-11-14 20:05:46 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-14 20:07:42 -ERROR- ORA-01810: format code appears twice ::: -1810 ::: IN: P_ADDLOGININFO
+2015-11-14 20:07:42 -ERROR- ORA-20001: An error was encountered - -1810 -ERROR- ORA-01810: format code appears twice ::: -20001 ::: IN: F_LOGIN
+2015-11-14 20:12:58 -ERROR- ORA-01810: format code appears twice ::: -1810 ::: IN: P_ADDLOGININFO
+2015-11-14 20:12:58 -ERROR- ORA-20001: An error was encountered - -1810 -ERROR- ORA-01810: format code appears twice ::: -20001 ::: IN: F_LOGIN
+2015-11-14 20:14:20 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+15/11/15 -ERROR- ORA-14551: cannot perform a DML operation inside a query  ::: -14551 ::: IN: P_ADDSEENDATE
+15/11/15 -ERROR- ORA-20001: An error was encountered - -14551 -ERROR- ORA-14551: cannot perform a DML operation inside a query ::: -20001 ::: IN: F_LASTNEGLOGIN
+15/11/15 -ERROR- ORA-14551: cannot perform a DML operation inside a query  ::: -14551 ::: IN: P_ADDSEENDATE
+15/11/15 -ERROR- ORA-20001: An error was encountered - -14551 -ERROR- ORA-14551: cannot perform a DML operation inside a query ::: -20001 ::: IN: F_LASTNEGLOGIN
+15/11/15 -ERROR- ORA-14551: cannot perform a DML operation inside a query  ::: -14551 ::: IN: F_LASTNEGLOGIN
+15/11/15 -ERROR- ORA-14551: cannot perform a DML operation inside a query  ::: -14551 ::: IN: F_LASTNEGLOGIN
+15/11/15 -ERROR- ORA-14551: cannot perform a DML operation inside a query  ::: -14551 ::: IN: F_LASTNEGLOGIN
+15/11/15 -ERROR- ORA-14551: cannot perform a DML operation inside a query  ::: -14551 ::: IN: F_LASTNEGLOGIN
+15/11/15 -ERROR- ORA-14551: cannot perform a DML operation inside a query  ::: -14551 ::: IN: P_ADDSEENDATE
+15/11/15 -ERROR- ORA-20001: An error was encountered - -14551 -ERROR- ORA-14551: cannot perform a DML operation inside a query ::: -20001 ::: IN: F_LASTNEGLOGIN
+15/11/15 -ERROR- ORA-14551: cannot perform a DML operation inside a query  ::: -14551 ::: IN: P_ADDSEENDATE
+15/11/15 -ERROR- ORA-20001: An error was encountered - -14551 -ERROR- ORA-14551: cannot perform a DML operation inside a query ::: -20001 ::: IN: F_LASTNEGLOGIN
+15/11/15 -ERROR- ORA-14551: cannot perform a DML operation inside a query  ::: -14551 ::: IN: P_ADDAPPUSER
+15/11/15 -ERROR- ORA-20001: An error was encountered - -14551 -ERROR- ORA-14551: cannot perform a DML operation inside a query ::: -20001 ::: IN: F_ADDAPPUSER
+15/11/15 -ERROR- ORA-14551: cannot perform a DML operation inside a query  ::: -14551 ::: IN: P_ADDSEENDATE
+15/11/15 -ERROR- ORA-20001: An error was encountered - -14551 -ERROR- ORA-14551: cannot perform a DML operation inside a query ::: -20001 ::: IN: F_LASTNEGLOGIN
+15/11/15 -ERROR- ORA-14551: cannot perform a DML operation inside a query  ::: -14551 ::: IN: P_ADDSEENDATE
+15/11/15 -ERROR- ORA-20001: An error was encountered - -14551 -ERROR- ORA-14551: cannot perform a DML operation inside a query ::: -20001 ::: IN: F_LASTNEGLOGIN
+15/11/15 -ERROR- ORA-14551: cannot perform a DML operation inside a query  ::: -14551 ::: IN: P_ADDSEENDATE
+15/11/15 -ERROR- ORA-20001: An error was encountered - -14551 -ERROR- ORA-14551: cannot perform a DML operation inside a query ::: -20001 ::: IN: F_LASTNEGLOGIN
+2015-11-15 14:18:15 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 14:18:47 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 14:36:04 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 14:39:57 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 14:48:10 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 15:15:09 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 15:16:22 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 15:16:25 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 15:20:28 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 15:22:14 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 15:24:52 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 16:32:03 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 16:32:17 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 16:33:11 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 16:34:22 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 16:36:47 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 17:15:59 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 19:07:48 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 20:15:52 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+15/11/15 -ERROR- ORA-01400: cannot insert NULL into ("MUSCLESMAN"."APPUSERREMEMBERLOGIN"."USER_ID") ::: -1400 ::: IN: P_ADDREMEMBERLOGIN
+2015-11-15 20:53:17 -ERROR- User-Defined Exception ::: User gg does not exists!! ::: IN: F_LOGIN
+2015-11-15 22:04:00 -ERROR- User-Defined Exception ::: Password for test is incorrect!! ::: IN: F_LOGIN
+2015-11-15 22:43:33 -ERROR- User-Defined Exception ::: New user tried to register account with USER-NAME: test whitch already exists!! ::: IN: F_GETUSERNAME
+2015-11-15 22:45:31 -ERROR- User-Defined Exception ::: Password for test4 is incorrect!! ::: IN: F_LOGIN
+2015-11-16 22:21:13 -ERROR- User-Defined Exception ::: User with id 64 does not exists!! ::: IN: F_AUTOLOGIN
+2015-11-16 22:22:16 -ERROR- User-Defined Exception ::: User with id 64 does not exists!! ::: IN: F_AUTOLOGIN
+2015-11-16 22:23:19 -ERROR- User-Defined Exception ::: User with id 64 does not exists!! ::: IN: F_AUTOLOGIN
+2015-11-16 22:23:54 -ERROR- User-Defined Exception ::: User with id 64 does not exists!! ::: IN: F_AUTOLOGIN
+2015-11-16 22:24:07 -ERROR- User-Defined Exception ::: User with id 64 does not exists!! ::: IN: F_AUTOLOGIN
+2015-11-17 17:15:23 -ERROR- User-Defined Exception ::: New user tried to register account with USER-NAME: test whitch already exists!! ::: IN: F_GETUSERNAME
+2015-11-17 17:16:45 -ERROR- User-Defined Exception ::: Password for test5 is incorrect!! ::: IN: F_LOGIN
+2015-12-05 17:26:43 -ERROR- User-Defined Exception ::: Password for a is incorrect!! ::: IN: F_LOGIN
+2015-12-18 16:52:33 -ERROR- User-Defined Exception ::: User with id 123 does not exists!! ::: IN: F_AUTOLOGIN
+2015-12-18 16:52:49 -ERROR- User-Defined Exception ::: User with id 123 does not exists!! ::: IN: F_AUTOLOGIN
+{"selection":null}selectFromNestedTable(, )++++{"selection":null}selectFromNestedTable(, )++++{"selection":null}
+
+
+selectFromNestedTable(, )++++{"selection":null}
+
+1450479712selectFromTableWithConditions(, , );  ------   {"selection":null}-------
+15/12/27 -ERROR- ORA-02291: integrity constraint (MUSCLESMAN.USER_EXCERCISES_USER_FK) violated - parent key not found ::: -2291 ::: IN: ADDUSERTRENING
+2015-12-27 20:07:18 -ERROR- User-Defined Exception ::: User with id 143 does not exists!! ::: IN: F_AUTOLOGIN
+selectFromNestedTable(F_showTraining, 5, 2)++++{"selection":null}
+
+1451331370selectFromTableWithConditions(*, TYPE_OF_EXCERCISE, TYPE_ID>0 ORDER BY TYPE_ID);  ------   {"selection":null}-------
+
+1451331504selectFromTableWithConditions(*, TYPE_OF_EXCERCISE, TYPE_ID>0 ORDER BY TYPE_ID);  ------   {"selection":null}-------
+
+1451332300selectFromTableWithConditions(*, TYPE_OF_EXCERCISE, TYPE_ID>0 ORDER BY TYPE_ID);  ------   {"selection":null}-------
+
+1451332394selectFromTableWithConditions(*, TYPE_OF_EXCERCISE, TYPE_ID>0 ORDER BY TYPE_ID);  ------   {"selection":null}-------
+
+1451333057selectFromTableWithConditions(*, TYPE_OF_EXCERCISE, TYPE_ID>0 ORDER BY TYPE_ID);  ------   {"selection":null}-------
+
+1451333173selectFromTableWithConditions(*, TYPE_OF_EXCERCISE, TYPE_ID>0 ORDER BY TYPE_ID);  ------   {"selection":null}-------
+
+1451333221selectFromTableWithConditions(*, TYPE_OF_EXCERCISE, TYPE_ID>0 ORDER BY TYPE_ID);  ------   {"selection":null}-------
+
+1451333256selectFromTableWithConditions(*, TYPE_OF_EXCERCISE, TYPE_ID>0 ORDER BY TYPE_ID);  ------   {"selection":null}-------
+
+1451333315selectFromTableWithConditions(*, TYPE_OF_EXCERCISE, TYPE_ID>0 ORDER BY TYPE_ID);  ------   {"selection":null}-------
+
+1451333359selectFromTableWithConditions(*, TYPE_OF_EXCERCISE, TYPE_OF_EXCERCISE_ID>0 ORDER BY TYPE_ID);  ------   {"selection":null}-------
+2015-12-28 21:11:20 -ERROR- User-Defined Exception ::: User w does not exists!! ::: IN: F_LOGIN
+
+1451411269selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '203' order by dayofweek);  ------   {"selection":null}-------
+
+1451411270selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '203' order by dayofweek);  ------   {"selection":null}-------
+2015-12-29 19:08:11 -ERROR- User-Defined Exception ::: Password for x is incorrect!! ::: IN: F_LOGIN
+2015-12-29 19:24:43 -ERROR- User-Defined Exception ::: Password for x is incorrect!! ::: IN: F_LOGIN
+
+1451423298selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '0' order by dayofweek);  ------   {"selection":null}-------
+15/12/30 -ERROR- ORA-06511: PL/SQL: cursor already open ::: -6511 ::: IN: F_NEARESTTRAINING
+15/12/30 -ERROR- ORA-06511: PL/SQL: cursor already open ::: -6511 ::: IN: F_NEARESTTRAINING
+15/12/30 -ERROR- ORA-06511: PL/SQL: cursor already open ::: -6511 ::: IN: F_NEARESTTRAINING
+15/12/30 -ERROR- ORA-06511: PL/SQL: cursor already open ::: -6511 ::: IN: F_NEARESTTRAINING
+15/12/30 -ERROR- ORA-06511: PL/SQL: cursor already open ::: -6511 ::: IN: F_NEARESTTRAINING
+2015-12-30 23:24:49 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+selectFromNestedTable(, )++++{"selection":null}
+2015-12-30 23:24:57 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+selectFromNestedTable(, )++++{"selection":null}
+2015-12-30 23:25:11 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+selectFromNestedTable(, )++++{"selection":null}
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-06511: PL/SQL: cursor already open ::: -6511 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-06511: PL/SQL: cursor already open ::: -6511 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-06502: PL/SQL: numeric or value error: NULL index table key value ::: -6502 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-06502: PL/SQL: numeric or value error: NULL index table key value ::: -6502 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-06533: Subscript beyond count ::: -6533 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-06532: Subscript outside of limit ::: -6532 ::: IN: F_NEARESTTRAINING
+15/12/31 -ERROR- ORA-06533: Subscript beyond count ::: -6533 ::: IN: F_NEARESTTRAINING
+selectFromNestedTable(, )++++{"selection":null}
+selectFromNestedTable(, )++++{"selection":null}
+selectFromNestedTable(F_showTraining, 0, 0)++++{"selection":null}
+
+1451572226selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '0' order by dayofweek);  ------   {"selection":null}-------
+
+1451572227selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '0' order by dayofweek);  ------   {"selection":null}-------
+
+1451572281selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '0' order by dayofweek);  ------   {"selection":null}-------
+
+1451572310selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '0' order by dayofweek);  ------   {"selection":null}-------
+2015-12-31 15:31:52 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+selectFromNestedTable(F_NEARESTTRAINING, 0, 0)++++{"selection":null}
+
+1451572315selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '0' order by dayofweek);  ------   {"selection":null}-------
+2015-12-31 15:31:57 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_NEARESTTRAINING
+selectFromNestedTable(F_NEARESTTRAINING, 0, 0)++++{"selection":null}
+2016-01-02 14:03:19 -ERROR- ORA-01861: literal does not match format string ::: -1861 ::: IN: P_ADDLOGININFO
+2016-01-02 14:03:19 -ERROR- ORA-20001: An error was encountered - -1861 -ERROR- ORA-01861: literal does not match format string ::: -20001 ::: IN: F_LOGIN
+2016-01-02 14:05:21 -ERROR- ORA-01861: literal does not match format string ::: -1861 ::: IN: P_ADDLOGININFO
+2016-01-02 14:05:21 -ERROR- ORA-20001: An error was encountered - -1861 -ERROR- ORA-01861: literal does not match format string ::: -20001 ::: IN: F_LOGIN
+2016-01-02 14:11:37 -ERROR- ORA-01861: literal does not match format string ::: -1861 ::: IN: P_ADDLOGININFO
+2016-01-02 14:11:37 -ERROR- ORA-20001: An error was encountered - -1861 -ERROR- ORA-01861: literal does not match format string ::: -20001 ::: IN: F_LOGIN
+SQL CODE: begin :r := F_LOGIN('p', '����8�.���z', '-1182971849'); end;2016-01-02 14:13:27 -ERROR- ORA-01861: literal does not match format string ::: -1861 ::: IN: P_ADDLOGININFO
+2016-01-02 14:13:27 -ERROR- ORA-20001: An error was encountered - -1861 -ERROR- ORA-01861: literal does not match format string ::: -20001 ::: IN: F_LOGIN
+SQL CODE: begin :r := F_LOGIN('p', '����8�.���z', '1961087367'); end;2016-01-02 14:14:23 -ERROR- ORA-01861: literal does not match format string ::: -1861 ::: IN: P_ADDLOGININFO
+2016-01-02 14:14:23 -ERROR- ORA-20001: An error was encountered - -1861 -ERROR- ORA-01861: literal does not match format string ::: -20001 ::: IN: F_LOGIN
+SQL CODE: begin :r := F_LOGIN('p', '����8�.���z', '245389'); end;16/01/02 -ERROR- ORA-14551: cannot perform a DML operation inside a query  ::: -14551 ::: IN: P_ADDLOGININFO
+16/01/02 -ERROR- ORA-20001: An error was encountered - -14551 -ERROR- ORA-14551: cannot perform a DML operation inside a query ::: -20001 ::: IN: F_LOGIN
+16/01/02 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+16/01/02 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 14:19:38 -ERROR- ORA-01861: literal does not match format string ::: -1861 ::: IN: P_ADDLOGININFO
+2016-01-02 14:19:38 -ERROR- ORA-20001: An error was encountered - -1861 -ERROR- ORA-01861: literal does not match format string ::: -20001 ::: IN: F_LOGIN
+SQL CODE: begin :r := F_LOGIN('p', '����8�.���z', 1154289); end;2016-01-02 14:21:58 -ERROR- ORA-01861: literal does not match format string ::: -1861 ::: IN: P_ADDLOGININFO
+2016-01-02 14:21:58 -ERROR- ORA-20001: An error was encountered - -1861 -ERROR- ORA-01861: literal does not match format string ::: -20001 ::: IN: F_LOGIN
+SQL CODE: begin :r := F_LOGIN('p', '����8�.���z', 1427331); end;2016-01-02 14:24:27 -ERROR- ORA-01861: literal does not match format string ::: -1861 ::: IN: P_ADDLOGININFO
+2016-01-02 14:24:27 -ERROR- ORA-20001: An error was encountered - -1861 -ERROR- ORA-01861: literal does not match format string ::: -20001 ::: IN: F_LOGIN
+SQL CODE: begin :r := F_LOGIN('p', '����8�.���z', 1); end;16/01/02 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+16/01/02 -ERROR- User-Defined Exception ::: Password for p is incorrect!! ::: IN: F_LOGIN
+16/01/02 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+16/01/02 -ERROR- User-Defined Exception ::: Password for p is incorrect!! ::: IN: F_LOGIN
+16/01/02 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+16/01/02 -ERROR- User-Defined Exception ::: Password for p is incorrect!! ::: IN: F_LOGIN
+16/01/02 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+16/01/02 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+16/01/02 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+16/01/02 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+16/01/02 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+16/01/02 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 14:34:07 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 14:34:07 -ERROR- User-Defined Exception ::: Password for p is incorrect!! ::: IN: F_LOGIN
+2016-01-02 14:34:24 -ERROR- ORA-01861: literal does not match format string ::: -1861 ::: IN: P_ADDLOGININFO
+2016-01-02 14:34:24 -ERROR- ORA-20001: An error was encountered - -1861 -ERROR- ORA-01861: literal does not match format string ::: -20001 ::: IN: F_LOGIN
+SQL CODE: begin :r := F_LOGIN('p', '����8�.���z', 1); end;callFunction(F_LOGIN, 'p', '����8�.���z', 1)++++{"return":null}
+2016-01-02 14:36:47 -ERROR- ORA-01861: literal does not match format string ::: -1861 ::: IN: P_ADDLOGININFO
+2016-01-02 14:36:47 -ERROR- ORA-20001: An error was encountered - -1861 -ERROR- ORA-01861: literal does not match format string ::: -20001 ::: IN: F_LOGIN
+SQL CODE: begin :r := F_LOGIN('p', '����8�.���z', 1); end;callFunction(F_LOGIN, 'p', '����8�.���z', 1)++++{"return":null}
+fPamams++++"'p', '����8�.���z', 1"
+2016-01-02 14:41:49 -ERROR- ORA-01861: literal does not match format string ::: -1861 ::: IN: P_ADDLOGININFO
+2016-01-02 14:41:49 -ERROR- ORA-20001: An error was encountered - -1861 -ERROR- ORA-01861: literal does not match format string ::: -20001 ::: IN: F_LOGIN
+2016-01-02 14:44:00 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 15:01:20 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 15:05:47 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 15:07:25 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+SQL CODE: begin :r := F_AUTOLOGIN(183, 760890); end;callFunction(F_AUTOLOGIN, 183, 760890)++++{"return":null}
+fPamams++++"183, 760890"
+SQL CODE: begin :r := F_AUTOLOGIN(183, 421739); end;callFunction(F_AUTOLOGIN, 183, 421739)++++{"return":null}
+fPamams++++"183, 421739"
+SQL CODE: begin :r := F_AUTOLOGIN(183, 1723863); end;callFunction(F_AUTOLOGIN, 183, 1723863)++++{"return":null}
+fPamams++++"183, 1723863"
+SQL CODE: begin :r := F_AUTOLOGIN(183, 123); end;callFunction(F_AUTOLOGIN, 183, 123)++++{"return":null}
+fPamams++++"183, 123"
+2016-01-02 15:11:07 -ERROR- User-Defined Exception ::: User with id 183 does not exists!! ::: IN: F_AUTOLOGIN
+2016-01-02 15:11:30 -ERROR- User-Defined Exception ::: User with id 183 does not exists!! ::: IN: F_AUTOLOGIN
+2016-01-02 15:14:33 -ERROR- User-Defined Exception ::: User with id 183 does not exists!! ::: IN: F_AUTOLOGIN
+2016-01-02 15:14:34 -ERROR- ORA-02291: integrity constraint (MUSCLESMAN.TABLE1_FK1) violated - parent key not found ::: -2291 ::: IN: P_ADDREMEMBERLOGIN
+2016-01-02 15:14:54 -ERROR- User-Defined Exception ::: User with id 0 does not exists!! ::: IN: F_AUTOLOGIN
+2016-01-02 15:14:54 -ERROR- ORA-02291: integrity constraint (MUSCLESMAN.TABLE1_FK1) violated - parent key not found ::: -2291 ::: IN: P_ADDREMEMBERLOGIN
+2016-01-02 15:17:39 -ERROR- User-Defined Exception ::: User with id 0 not found! ::: IN: F_AUTOLOGIN
+2016-01-02 15:17:58 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 15:18:15 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 15:19:06 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 15:19:30 -ERROR- User-Defined Exception ::: User with id 183 not found! ::: IN: F_AUTOLOGIN
+2016-01-02 15:20:51 -SUCCESS-  ::: succesfully logged in: 204 ::: IN: P_ADDLOGININFO
+2016-01-02 15:21:20 -SUCCESS-  ::: succesfully logged in: 204 ::: IN: P_ADDLOGININFO
+2016-01-02 15:21:31 -ERROR- User-Defined Exception ::: User with id 204 not found! ::: IN: F_AUTOLOGIN
+2016-01-02 15:22:29 -SUCCESS-  ::: succesfully logged in: 204 ::: IN: P_ADDLOGININFO
+SQL CODE: begin :r := F_AUTOLOGIN(204, 123); end;callFunction(F_AUTOLOGIN, 204, 123)++++{"return":null}
+fPamams++++"204, 123"
+-----------------------------------2016-01-02 15:26:42 -SUCCESS-  ::: succesfully logged in: 204 ::: IN: P_ADDLOGININFO
+SQL CODE: begin :r := F_AUTOLOGIN(204, 123); end;callFunction(F_AUTOLOGIN, 204, 123)++++{"return":null}
+fPamams++++"204, 123"
+2016-01-02 15:28:16 -SUCCESS-  ::: succesfully logged in: 204 ::: IN: P_ADDLOGININFO
+2016-01-02 15:44:36 -SUCCESS-  ::: succesfully logged in: 204 ::: IN: P_ADDLOGININFO
+2016-01-02 15:44:59 -SUCCESS-  ::: succesfully logged out: 204 ::: IN: P_LOGOUT
+2016-01-02 15:46:37 -ERROR- User-Defined Exception ::: User with id 204 not found! ::: IN: F_AUTOLOGIN
+2016-01-02 15:46:48 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 15:47:09 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 15:47:31 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 15:48:29 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 15:49:19 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 15:49:32 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 15:49:36 -SUCCESS-  ::: succesfully logged out: 183 ::: IN: P_LOGOUT
+2016-01-02 15:49:36 -ERROR- User-Defined Exception ::: User with id 183 not found! ::: IN: F_AUTOLOGIN
+2016-01-02 15:49:45 -ERROR- User-Defined Exception ::: User with id 183 not found! ::: IN: F_AUTOLOGIN
+2016-01-02 15:49:52 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-02 15:49:54 -SUCCESS-  ::: succesfully logged out: 183 ::: IN: P_LOGOUT
+2016-01-02 15:49:55 -ERROR- User-Defined Exception ::: User with id 183 not found! ::: IN: F_AUTOLOGIN
+2016-01-02 15:53:23 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-04 23:06:15 -ERROR- User-Defined Exception ::: User with id 183 not found! ::: IN: F_AUTOLOGIN
+2016-01-04 23:06:20 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+selectFromNestedTable(, )++++{"selection":null}
+2016-01-06 20:40:10 -ERROR- User-Defined Exception ::: User with id 183 not found! ::: IN: F_AUTOLOGIN
+2016-01-06 20:40:43 -ERROR- User-Defined Exception ::: User with id 183 not found! ::: IN: F_AUTOLOGIN
+2016-01-06 20:43:51 -SUCCESS-  ::: succesfully logged in: 223 ::: IN: P_ADDLOGININFO
+2016-01-06 20:44:13 -ERROR- User-Defined Exception ::: User in��ynier does not exists!! ::: IN: F_LOGIN
+2016-01-06 20:44:42 -ERROR- User-Defined Exception ::: New user tried to register account with USER-NAME: test whitch already exists!! ::: IN: F_GETUSERNAME
+2016-01-06 20:44:58 -SUCCESS-  ::: succesfully logged in: 223 ::: IN: P_ADDLOGININFO
+2016-01-06 20:45:29 -SUCCESS-  ::: succesfully logged in: 223 ::: IN: P_ADDLOGININFO
+2016-01-06 20:49:21 -SUCCESS-  ::: succesfully logged in: 223 ::: IN: P_ADDLOGININFO
+2016-01-06 20:49:50 -SUCCESS-  ::: succesfully logged in: 223 ::: IN: P_ADDLOGININFO
+
+1452109861selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '223' order by dayofweek);  ------   {"selection":null}-------
+
+1452109862selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '223' order by dayofweek);  ------   {"selection":null}-------
+2016-01-06 20:51:04 -SUCCESS-  ::: succesfully logged out: 223 ::: IN: P_LOGOUT
+2016-01-06 20:51:04 -ERROR- User-Defined Exception ::: User with id 223 not found! ::: IN: F_AUTOLOGIN
+2016-01-06 20:51:15 -ERROR- User-Defined Exception ::: User with id 223 not found! ::: IN: F_AUTOLOGIN
+SQL CODE: begin :r := F_ADDAPPUSER('w końcu na', '��ُ ��	���B~'); end;callFunction(F_ADDAPPUSER, 'w końcu na', '��ُ ��	���B~')++++{"return":null}
+fPamams++++"'w końcu na', '��ُ ��	���B~'"
+2016-01-06 20:51:50 -ERROR- User-Defined Exception ::: User with id 223 not found! ::: IN: F_AUTOLOGIN
+SQL CODE: begin :r := F_ADDAPPUSER('inżynier', 'Z�]ݓ� �4?c��u '); end;callFunction(F_ADDAPPUSER, 'inżynier', 'Z�]ݓ� �4?c��u ')++++{"return":null}
+fPamams++++"'inżynier', 'Z�]ݓ� �4?c��u '"
+2016-01-06 20:53:57 -ERROR- User-Defined Exception ::: User with id 223 not found! ::: IN: F_AUTOLOGIN
+2016-01-06 20:54:25 -ERROR- User-Defined Exception ::: User with id 223 not found! ::: IN: F_AUTOLOGIN
+2016-01-06 20:54:44 -SUCCESS-  ::: succesfully logged in: 225 ::: IN: P_ADDLOGININFO
+2016-01-06 20:54:44 -ERROR- User-Defined Exception ::: Password for in��ynier is incorrect!! ::: IN: F_LOGIN
+2016-01-06 20:54:54 -SUCCESS-  ::: succesfully logged in: 225 ::: IN: P_ADDLOGININFO
+
+1452110173selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '225' order by dayofweek);  ------   {"selection":null}-------
+2016-01-06 21:00:24 -SUCCESS-  ::: succesfully logged in: 225 ::: IN: P_ADDLOGININFO
+2016-01-06 21:00:37 -SUCCESS-  ::: succesfully logged out: 225 ::: IN: P_LOGOUT
+2016-01-06 21:00:38 -ERROR- User-Defined Exception ::: User with id 225 not found! ::: IN: F_AUTOLOGIN
+2016-01-06 21:00:52 -SUCCESS-  ::: succesfully logged in: 64 ::: IN: P_ADDLOGININFO
+
+1452110452selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '64' order by dayofweek);  ------   {"selection":null}-------
+2016-01-06 21:00:57 -SUCCESS-  ::: succesfully logged out: 64 ::: IN: P_LOGOUT
+2016-01-06 21:00:57 -ERROR- User-Defined Exception ::: User with id 64 not found! ::: IN: F_AUTOLOGIN
+        2016-01-08 22:38:48 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-08 22:42:54 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-08 22:42:55 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-08 22:42:56 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-08 22:42:57 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-08 22:42:58 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-08 22:42:59 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-08 22:42:59 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-08 22:43:00 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-08 22:44:31 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-08 22:44:50 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-08 22:44:52 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-08 22:45:12 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-08 22:46:32 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_GETTRAINING
+2016-01-08 22:47:16 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_GETTRAINING
+2016-01-08 23:15:44 -ERROR- ORA-06502: PL/SQL: numeric or value error: character to number conversion error ::: -6502 ::: IN: F_GETACHIEW
+2016-01-08 23:16:44 -ERROR- ORA-06502: PL/SQL: numeric or value error: character to number conversion error ::: -6502 ::: IN: F_GETACHIEW
+2016-01-08 23:16:45 -ERROR- ORA-06502: PL/SQL: numeric or value error: character to number conversion error ::: -6502 ::: IN: F_GETACHIEW
+16/01/10 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+16/01/10 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+16/01/10 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_GETTRAINING
+16/01/10 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_GETTRAINING
+16/01/10 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_GETTRAINING
+2016-01-10 07:38:52 -ERROR- User-Defined Exception ::: User with id 64 not found! ::: IN: F_AUTOLOGIN
+2016-01-10 07:39:11 -ERROR- User-Defined Exception ::: User with id 64 not found! ::: IN: F_AUTOLOGIN
+2016-01-10 07:39:16 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 07:47:12 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+selectFromNestedTable(F_GETTRAINING, 225)++++{"selection":null}
+2016-01-10 07:48:13 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+selectFromNestedTable(F_GETTRAINING, 225)++++{"selection":null}
+2016-01-10 07:48:14 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+selectFromNestedTable(F_GETTRAINING, 225)++++{"selection":null}
+16/01/10 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+16/01/10 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+2016-01-10 10:27:16 -ERROR- User-Defined Exception ::: User with id 243 not found! ::: IN: F_AUTOLOGIN
+2016-01-10 10:27:46 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 10:28:10 -SUCCESS-  ::: succesfully logged out: 243 ::: IN: P_LOGOUT
+2016-01-10 10:28:10 -ERROR- User-Defined Exception ::: User with id 243 not found! ::: IN: F_AUTOLOGIN
+2016-01-10 10:28:24 -ERROR- User-Defined Exception ::: User with id 243 not found! ::: IN: F_AUTOLOGIN
+2016-01-10 10:30:24 -ERROR- User-Defined Exception ::: User with id 243 not found! ::: IN: F_AUTOLOGIN
+2016-01-10 10:30:48 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 10:59:57 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 11:01:35 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select distinct dayofweek from DAYOFWEEK_TRENINGTYPE where USERID = '0' order by dayofweek
+1452420403selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '0' order by dayofweek);  ------   {"selection":null}-------
+2016-01-10 11:16:21 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 11:17:32 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 11:44:42 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 11:45:17 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 11:47:01 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 11:48:54 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 11:50:46 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 11:52:22 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 11:52:37 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 11:53:55 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 11:54:34 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 12:00:48 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 12:44:20 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 12:45:27 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 12:47:13 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 12:48:27 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 12:49:21 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 12:50:52 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 12:51:29 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 14:25:17 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 14:28:40 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 14:31:06 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 14:31:45 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 14:32:45 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 14:33:32 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 14:34:38 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from APPUSERDATA where USERID = '243
+1452432882selectFromTableWithConditions(AGE, APPUSERDATA, USERID = '243);  ------   {"selection":null}-------
+SQL CODE: select EXPERIENCE from APPUSERDATA where USERID = '243
+1452432882selectFromTableWithConditions(EXPERIENCE, APPUSERDATA, USERID = '243);  ------   {"selection":null}-------
+2016-01-10 14:37:59 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USERID = '243
+1452433090selectFromTableWithConditions(AGE, TYPEOFTRENING, USERID = '243);  ------   {"selection":null}-------
+SQL CODE: select EXPERIENCE from APPUSERDATA where USERID = '243
+1452433090selectFromTableWithConditions(EXPERIENCE, APPUSERDATA, USERID = '243);  ------   {"selection":null}-------
+SQL CODE: select AGE from APPUSERDATA where USERID = '243
+1452433090selectFromTableWithConditions(AGE, APPUSERDATA, USERID = '243);  ------   {"selection":null}-------
+2016-01-10 14:38:45 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 14:39:17 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from APPUSERDATA where USER_ID = '243
+1452433161selectFromTableWithConditions(AGE, APPUSERDATA, USER_ID = '243);  ------   {"selection":null}-------
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = '243
+1452433161selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = '243);  ------   {"selection":null}-------
+SQL CODE: select EXPERIENCE from APPUSERDATA where USER_ID = '243
+1452433161selectFromTableWithConditions(EXPERIENCE, APPUSERDATA, USER_ID = '243);  ------   {"selection":null}-------
+2016-01-10 14:41:30 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = 243
+1452433295selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = 243);  ------   {"selection":null}-------
+2016-01-10 14:44:06 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = 243
+1452433450selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = 243);  ------   {"selection":null}-------
+2016-01-10 14:44:56 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = 243
+1452433522selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = 243);  ------   {"selection":null}-------
+2016-01-10 14:53:44 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = 243
+1452434028selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = 243);  ------   {"selection":null}-------
+2016-01-10 14:54:19 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 14:54:41 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = 243
+1452434090selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = 243);  ------   {"selection":null}-------
+2016-01-10 14:55:37 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = 243
+1452434141selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = 243);  ------   {"selection":null}-------
+2016-01-10 14:56:29 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = 243
+1452434201selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = 243);  ------   {"selection":null}-------
+2016-01-10 15:00:56 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = 243
+1452434467selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = 243);  ------   {"selection":null}-------
+2016-01-10 15:01:59 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = 243
+1452434523selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = 243);  ------   {"selection":null}-------
+2016-01-10 15:03:29 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = 243
+1452434616selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = 243);  ------   {"selection":null}-------
+2016-01-10 15:04:28 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = 243
+1452434671selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = 243);  ------   {"selection":null}-------
+2016-01-10 15:08:15 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:08:48 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = 243
+1452434932selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = 243);  ------   {"selection":null}-------
+2016-01-10 15:09:23 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select AGE from TYPEOFTRENING where USER_ID = 243
+1452435010selectFromTableWithConditions(AGE, TYPEOFTRENING, USER_ID = 243);  ------   {"selection":null}-------
+2016-01-10 15:11:02 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:11:58 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:12:37 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:13:31 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:14:33 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:17:19 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:18:28 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:37:12 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:40:28 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452436945update(, , , );;  ------   update  set  =  where -------
+2016-01-10 15:43:20 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:49:53 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:52:39 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452437574update(APPUSERDATA, , , USER_ID = 243);;  ------   update APPUSERDATA set  =  where USER_ID = 243-------
+2016-01-10 15:54:04 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452437654update(APPUSERDATA, , , USER_ID = 243);;  ------   update APPUSERDATA set AGE = 36 where USER_ID = 243-------
+
+1452437717update(APPUSERDATA, TYPEOFTRENING, 1, USER_ID = 243);;  ------   update APPUSERDATA set TYPEOFTRENING = 1 where USER_ID = 243-------
+
+1452437717update(APPUSERDATA, AGE, 36, USER_ID = 243);;  ------   update APPUSERDATA set AGE = 36 where USER_ID = 243-------
+
+1452437733update(APPUSERDATA, AGE, 36, USER_ID = 243);;  ------   update APPUSERDATA set AGE = 36 where USER_ID = 243-------
+
+1452437733update(APPUSERDATA, TYPEOFTRENING, 1, USER_ID = 243);;  ------   update APPUSERDATA set TYPEOFTRENING = 1 where USER_ID = 243-------
+
+1452437745update(APPUSERDATA, TYPEOFTRENING, 1, USER_ID = 243);;  ------   update APPUSERDATA set TYPEOFTRENING = 1 where USER_ID = 243-------
+
+1452437745update(APPUSERDATA, AGE, 36, USER_ID = 243);;  ------   update APPUSERDATA set AGE = 36 where USER_ID = 243-------
+2016-01-10 15:56:31 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452437804update(APPUSER, USER_PASSWORD, ORA_HASH(v��c�<�ݝ�T�a), USER_ID = 243);;  ------   update APPUSER set USER_PASSWORD = ORA_HASH(v��c�<�ݝ�T�a) where USER_ID = 243-------
+2016-01-10 15:56:58 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:57:03 -SUCCESS-  ::: succesfully logged out: 243 ::: IN: P_LOGOUT
+2016-01-10 15:57:04 -ERROR- User-Defined Exception ::: User with id 243 not found! ::: IN: F_AUTOLOGIN
+2016-01-10 15:57:20 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:57:20 -ERROR- User-Defined Exception ::: Password for tester is incorrect!! ::: IN: F_LOGIN
+2016-01-10 15:57:23 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452437855update(APPUSER, USER_PASSWORD, ORA_HASH(v��c�<�ݝ�T�a), USER_ID = 243);;  ------   update APPUSER set USER_PASSWORD = ORA_HASH(v��c�<�ݝ�T�a) where USER_ID = 243-------
+2016-01-10 15:57:39 -SUCCESS-  ::: succesfully logged out: 243 ::: IN: P_LOGOUT
+2016-01-10 15:57:39 -ERROR- User-Defined Exception ::: User with id 243 not found! ::: IN: F_AUTOLOGIN
+2016-01-10 15:57:45 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 15:57:45 -ERROR- User-Defined Exception ::: Password for tester is incorrect!! ::: IN: F_LOGIN
+2016-01-10 15:57:48 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:00:16 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452438026update(APPUSER, USER_PASSWORD, ORA_HASH('v��c�<�ݝ�T�a'), USER_ID = 243);;  ------   update APPUSER set USER_PASSWORD = ORA_HASH('v��c�<�ݝ�T�a') where USER_ID = 243-------
+2016-01-10 16:00:38 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:00:41 -SUCCESS-  ::: succesfully logged out: 243 ::: IN: P_LOGOUT
+2016-01-10 16:00:41 -ERROR- User-Defined Exception ::: User with id 243 not found! ::: IN: F_AUTOLOGIN
+2016-01-10 16:00:52 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:00:52 -ERROR- User-Defined Exception ::: Password for tester is incorrect!! ::: IN: F_LOGIN
+2016-01-10 16:00:54 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:25:17 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:25:58 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:27:23 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:27:57 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:28:54 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:29:41 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:30:06 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_GETACHIEW
+SQL CODE: select * from table(F_GETACHIEW(243))selectFromNestedTable(F_GETACHIEW, 243)++++{"selection":null}
+2016-01-10 16:32:08 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:32:42 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:33:31 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:36:01 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:37:28 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:37:54 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:38:32 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:39:45 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:43:06 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:43:11 -ERROR- ORA-01403: no data found ::: 100 ::: IN: F_GETMEAS
+SQL CODE: select * from table(F_GETMEAS(243))selectFromNestedTable(F_GETMEAS, 243)++++{"selection":null}
+2016-01-10 16:45:12 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 16:46:05 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 17:03:01 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 17:07:32 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 17:12:02 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452442352insert(USER_MEASUREMENTS, USERID, PART_OF_BODY, MEASUREMENT, MEAS_DATE, '243', '01', 'tt', sysdate);  ------   insert into USER_MEASUREMENTS(USERID, PART_OF_BODY, MEASUREMENT, MEAS_DATE) values ('243', '01', 'tt', sysdate)-------
+2016-01-10 17:12:41 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452442380insert(USER_MEASUREMENTS, USERID, PART_OF_BODY, MEASUREMENT, MEAS_DATE, '243', '91', 'gt', sysdate);  ------   insert into USER_MEASUREMENTS(USERID, PART_OF_BODY, MEASUREMENT, MEAS_DATE) values ('243', '91', 'gt', sysdate)-------
+2016-01-10 17:14:23 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452442474insert(USER_MEASUREMENTS, USERID, PART_OF_BODY, MEASUREMENT, MEAS_DATE, '243', '8', '34', sysdate);  ------   insert into USER_MEASUREMENTS(USERID, PART_OF_BODY, MEASUREMENT, MEAS_DATE) values ('243', '8', '34', sysdate)-------
+2016-01-10 17:16:02 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 17:17:57 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 17:19:10 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452442765insert(USER_MEASUREMENTS, USERID, PART_OF_BODY, MEASUREMENT, MEAS_DATE, '243', '10', '56', sysdate);  ------   insert into USER_MEASUREMENTS(USERID, PART_OF_BODY, MEASUREMENT, MEAS_DATE) values ('243', '10', '56', sysdate)-------
+2016-01-10 17:20:50 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452442864insert(USER_MEASUREMENTS, USERID, PART_OF_BODY, MEASUREMENT, MEAS_DATE, '243', '11', '58', sysdate);  ------   insert into USER_MEASUREMENTS(USERID, PART_OF_BODY, MEASUREMENT, MEAS_DATE) values ('243', '11', '58', sysdate)-------
+
+1452442869insert(USER_MEASUREMENTS, USERID, PART_OF_BODY, MEASUREMENT, MEAS_DATE, '243', '1', '55', sysdate);  ------   insert into USER_MEASUREMENTS(USERID, PART_OF_BODY, MEASUREMENT, MEAS_DATE) values ('243', '1', '55', sysdate)-------
+2016-01-10 17:56:24 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 17:57:31 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 17:59:09 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 18:03:25 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 18:05:05 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 18:11:25 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 18:12:44 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 18:13:43 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 18:17:50 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 18:18:57 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 18:21:32 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+SQL CODE: select distinct dayofweek from DAYOFWEEK_TRENINGTYPE where USERID = '0' order by dayofweek
+1452446523selectFromTableWithConditions(distinct dayofweek, DAYOFWEEK_TRENINGTYPE, USERID = '0' order by dayofweek);  ------   {"selection":null}-------
+2016-01-10 18:22:56 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 18:32:01 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452447151insert(USER_ACHIEVEMENTS, USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE, '243', '(select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Cwiczenia na orbiteku')', '6677', sysdate);  ------   insert into USER_ACHIEVEMENTS(USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE) values ('243', '(select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Cwiczenia na orbiteku')', '6677', sysdate)-------
+
+1452447151insert(USER_ACHIEVEMENTS, USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE, '243', '(select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Rozciaganie miesni trojgowych ramion')', '3456', sysdate);  ------   insert into USER_ACHIEVEMENTS(USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE) values ('243', '(select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Rozciaganie miesni trojgowych ramion')', '3456', sysdate)-------
+
+1452447151insert(USER_ACHIEVEMENTS, USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE, '243', '(select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Rozciaganie miesni dwugowych ud')', '4455', sysdate);  ------   insert into USER_ACHIEVEMENTS(USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE) values ('243', '(select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Rozciaganie miesni dwugowych ud')', '4455', sysdate)-------
+2016-01-10 18:33:31 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452447230insert(USER_ACHIEVEMENTS, USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE, '243', '(select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Rozciaganie miesni wewnetrznych ud')', '566', sysdate);  ------   insert into USER_ACHIEVEMENTS(USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE) values ('243', '(select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Rozciaganie miesni wewnetrznych ud')', '566', sysdate)-------
+
+1452447230insert(USER_ACHIEVEMENTS, USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE, '243', '(select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Rozciaganie miesni trojgowych ramion')', '467', sysdate);  ------   insert into USER_ACHIEVEMENTS(USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE) values ('243', '(select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Rozciaganie miesni trojgowych ramion')', '467', sysdate)-------
+2016-01-10 18:35:45 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452447362insert(USER_ACHIEVEMENTS, USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE, '243', (select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Rozciaganie miesni przedramion'), '46789', sysdate);  ------   insert into USER_ACHIEVEMENTS(USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE) values ('243', (select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Rozciaganie miesni przedramion'), '46789', sysdate)-------
+
+1452447362insert(USER_ACHIEVEMENTS, USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE, '243', (select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Rozciaganie miesni trojgowych ramion'), 'gvv', sysdate);  ------   insert into USER_ACHIEVEMENTS(USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE) values ('243', (select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Rozciaganie miesni trojgowych ramion'), 'gvv', sysdate)-------
+2016-01-10 18:36:21 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 18:51:25 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+
+1452448394insert(USER_ACHIEVEMENTS, USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE, '243', (select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Jazda rowerkiem'), '467', sysdate);  ------   insert into USER_ACHIEVEMENTS(USERID, EXCERCISE, ACHIEVEMENT, ACHIEW_DATE) values ('243', (select distinct Excercise_id from excercises where EXCERCISE_NAME like 'Jazda rowerkiem'), '467', sysdate)-------
+2016-01-10 18:58:03 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 18:59:33 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 19:46:00 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 19:48:44 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 19:50:48 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 19:53:40 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 19:53:58 -SUCCESS-  ::: succesfully logged out: 243 ::: IN: P_LOGOUT
+2016-01-10 19:53:59 -ERROR- User-Defined Exception ::: User with id 243 not found! ::: IN: F_AUTOLOGIN
+2016-01-10 19:54:21 -SUCCESS-  ::: succesfully logged in: 203 ::: IN: P_ADDLOGININFO
+2016-01-10 19:54:23 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+SQL CODE: select * from table(F_GETTRAINING(203))selectFromNestedTable(F_GETTRAINING, 203)++++{"selection":null}
+2016-01-10 19:54:53 -SUCCESS-  ::: succesfully logged out: 203 ::: IN: P_LOGOUT
+2016-01-10 19:54:54 -ERROR- User-Defined Exception ::: User with id 203 not found! ::: IN: F_AUTOLOGIN
+2016-01-10 19:54:57 -SUCCESS-  ::: succesfully logged in: 183 ::: IN: P_ADDLOGININFO
+2016-01-10 19:55:00 -ERROR- ORA-01422: exact fetch returns more than requested number of rows ::: -1422 ::: IN: F_GETTRAINING
+SQL CODE: select * from table(F_GETTRAINING(183))selectFromNestedTable(F_GETTRAINING, 183)++++{"selection":null}
+2016-01-10 19:55:07 -SUCCESS-  ::: succesfully logged in: 164 ::: IN: P_ADDLOGININFO
+2016-01-10 19:55:19 -SUCCESS-  ::: succesfully logged in: 163 ::: IN: P_ADDLOGININFO
+2016-01-10 22:37:28 -ERROR- User-Defined Exception ::: User with id 163 not found! ::: IN: F_AUTOLOGIN
+2016-01-10 22:37:33 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 22:37:33 -ERROR- User-Defined Exception ::: Password for tester is incorrect!! ::: IN: F_LOGIN
+2016-01-10 22:37:34 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 22:37:39 -SUCCESS-  ::: succesfully logged out: 243 ::: IN: P_LOGOUT
+2016-01-10 22:37:40 -ERROR- User-Defined Exception ::: User with id 243 not found! ::: IN: F_AUTOLOGIN
+2016-01-10 22:37:46 -SUCCESS-  ::: succesfully logged in: 243 ::: IN: P_ADDLOGININFO
+2016-01-10 22:38:21 -SUCCESS-  ::: succesfully logged out: 243 ::: IN: P_LOGOUT
+2016-01-10 22:38:21 -ERROR- User-Defined Exception ::: User with id 243 not found! ::: IN: F_AUTOLOGIN
